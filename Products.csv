@@ -1,0 +1,41 @@
+ProductID,ProductName,Category,Brand,UnitPrice,Cost
+PROD-001,Milo 1L,Beverage,Milo,25000,16000
+PROD-002,Milo Sachet 3in1 22g,Beverage,Milo,3000,1400
+PROD-003,Dancow 400g,Dairy,Dancow,60000,38000
+PROD-004,Dancow 800g,Dairy,Dancow,110000,70000
+PROD-005,Nescafé Classic 25g,Beverage,Nescafé,5000,3000
+PROD-006,Nescafé Gold 100g,Beverage,Nescafé,45000,26000
+PROD-007,KitKat 45g,Confectionery,KitKat,8000,3500
+PROD-008,KitKat Chunky 40g,Confectionery,KitKat,12000,5200
+PROD-009,Maggi 5's,Culinary,Maggi,7000,3000
+PROD-010,Maggi Masak 200g,Culinary,Maggi,9000,3800
+PROD-011,Bear Brand 189ml,Dairy,Bear Brand,7000,4000
+PROD-012,Bear Brand 370ml,Dairy,Bear Brand,12000,7000
+PROD-013,Cerelac 200g,Dairy,Cerelac,45000,27000
+PROD-014,Nestlé Yogurt 125g,Dairy,Nestlé,9000,4800
+PROD-015,Nutribun Snack 50g,Confectionery,Nestlé,6000,2500
+PROD-016,Nesvita Sachet 20g,Beverage,Nesvita,3500,1500
+PROD-017,Nestea 350ml,Beverage,Nestea,8000,4200
+PROD-018,Susu Bubuk Enak 200g,Dairy,Nestlé,30000,18000
+PROD-019,Coffee Mate 200g,Beverage,Coffee Mate,25000,12000
+PROD-020,Sweetened Condensed Milk 380g,Culinary,Nestlé,15000,8000
+PROD-021,Cereal Choco 375g,Dairy,Nestlé,70000,42000
+PROD-022,Chocolate Bar 100g,Confectionery,Nestlé,25000,12000
+PROD-023,Ice Cream Cup 120ml,Dairy,Nestlé,12000,6000
+PROD-024,Drink Mix 200g,Beverage,Nestlé,22000,11000
+PROD-025,Ready Soup 400g,Culinary,Maggi,18000,9000
+PROD-026,Instant Noodles Maggi 75g,Culinary,Maggi,3500,1500
+PROD-027,Baby Formula 800g,Dairy,Dancow,250000,150000
+PROD-028,Protein Shake 500ml,Beverage,Nestlé,35000,20000
+PROD-029,Energy Biscuit 50g,Confectionery,Nestlé,5000,2200
+PROD-030,Chocolate Drink Mix 1kg,Beverage,Milo,150000,90000
+PROD-031,Coffee Beans 500g,Beverage,Nescafé,120000,70000
+PROD-032,Milk Powder 1kg,Dairy,Dancow,180000,110000
+PROD-033,Snack Wafer 60g,Confectionery,KitKat,7000,3000
+PROD-034,Cooking Cream 200ml,Culinary,Nestlé,14000,7000
+PROD-035,Instant Coffee Stick 10g,Beverage,Nescafé,2500,1200
+PROD-036,Milk Drink 200ml,Dairy,Bear Brand,5000,2600
+PROD-037,Granola 300g,Dairy,Nestlé,60000,35000
+PROD-038,Chocolate Spread 350g,Confectionery,Nestlé,40000,21000
+PROD-039,Soup Cup 70g,Culinary,Maggi,8000,3500
+PROD-040,Milk Snack 30g,Dairy,Dancow,4000,2000

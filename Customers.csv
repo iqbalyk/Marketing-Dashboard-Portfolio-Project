@@ -1,0 +1,201 @@
+CustomerID,CustomerName,City,Channel,CustomerSegment
+CUST-001,Toko Sejahtera 1,Depok,Traditional Trade,Wholesaler
+CUST-002,Toko Sejahtera 2,Ciamis,E-commerce,Retail
+CUST-003,Toko Sejahtera 3,Purwakarta,E-commerce,Wholesaler
+CUST-004,Toko Sejahtera 4,Cirebon,Modern Trade,Retail
+CUST-005,Toko Sejahtera 5,Cimahi,Traditional Trade,Retail
+CUST-006,Toko Sejahtera 6,Pangandaran,Traditional Trade,Retail
+CUST-007,Toko Sejahtera 7,Depok,Modern Trade,Wholesaler
+CUST-008,Toko Sejahtera 8,Tasikmalaya Kab.,Modern Trade,Retail
+CUST-009,Toko Sejahtera 9,Garut,Traditional Trade,Retail
+CUST-010,Toko Sejahtera 10,Kuningan,E-commerce,Retail
+CUST-011,Toko Sejahtera 11,Cirebon,Traditional Trade,Retail
+CUST-012,Toko Sejahtera 12,Cirebon,Traditional Trade,Online
+CUST-013,Toko Sejahtera 13,Cianjur,Distributor,Wholesaler
+CUST-014,Toko Sejahtera 14,Pangandaran,Traditional Trade,Retail
+CUST-015,Toko Sejahtera 15,Bogor Kab.,E-commerce,Retail
+CUST-016,Toko Sejahtera 16,Cimahi,E-commerce,Retail
+CUST-017,Toko Sejahtera 17,Cianjur,Traditional Trade,Retail
+CUST-018,Toko Sejahtera 18,Bogor,Traditional Trade,Retail
+CUST-019,Toko Sejahtera 19,Banjar,Traditional Trade,Retail
+CUST-020,Toko Sejahtera 20,Pangandaran,Traditional Trade,Retail
+CUST-021,Toko Sejahtera 21,Bandung Barat,Modern Trade,Wholesaler
+CUST-022,Toko Sejahtera 22,Cianjur,Distributor,Wholesaler
+CUST-023,Toko Sejahtera 23,Cirebon Kab.,Traditional Trade,Retail
+CUST-024,Toko Sejahtera 24,Bekasi Kab.,Modern Trade,Retail
+CUST-025,Toko Sejahtera 25,Bandung Barat,Traditional Trade,Wholesaler
+CUST-026,Toko Sejahtera 26,Pangandaran,E-commerce,Retail
+CUST-027,Toko Sejahtera 27,Bandung,Modern Trade,Online
+CUST-028,Toko Sejahtera 28,Cirebon Kab.,Modern Trade,Wholesaler
+CUST-029,Toko Sejahtera 29,Tasikmalaya Kab.,Traditional Trade,Retail
+CUST-030,Toko Sejahtera 30,Banjar,E-commerce,Retail
+CUST-031,Toko Sejahtera 31,Cirebon Kab.,Modern Trade,Wholesaler
+CUST-032,Toko Sejahtera 32,Tasikmalaya,Distributor,Retail
+CUST-033,Toko Sejahtera 33,Majalengka,Distributor,Retail
+CUST-034,Toko Sejahtera 34,Garut Kab.,Modern Trade,Online
+CUST-035,Toko Sejahtera 35,Garut Kab.,Distributor,Retail
+CUST-036,Toko Sejahtera 36,Sukabumi Kab.,Traditional Trade,Retail
+CUST-037,Toko Sejahtera 37,Indramayu,Distributor,Wholesaler
+CUST-038,Toko Sejahtera 38,Purwakarta,Distributor,Retail
+CUST-039,Toko Sejahtera 39,Purwakarta,Traditional Trade,Retail
+CUST-040,Toko Sejahtera 40,Garut,Modern Trade,Online
+CUST-041,Toko Sejahtera 41,Cirebon Kab.,E-commerce,Retail
+CUST-042,Toko Sejahtera 42,Kuningan,Traditional Trade,Corporate
+CUST-043,Toko Sejahtera 43,Ciamis,Modern Trade,Online
+CUST-044,Toko Sejahtera 44,Tasikmalaya,Modern Trade,Retail
+CUST-045,Toko Sejahtera 45,Bogor,Traditional Trade,Retail
+CUST-046,Toko Sejahtera 46,Bekasi,Distributor,Retail
+CUST-047,Toko Sejahtera 47,Garut,Modern Trade,Retail
+CUST-048,Toko Sejahtera 48,Depok,Traditional Trade,Retail
+CUST-049,Toko Sejahtera 49,Pangandaran,Modern Trade,Wholesaler
+CUST-050,Toko Sejahtera 50,Sukabumi,Distributor,Retail
+CUST-051,Toko Sejahtera 51,Depok,Modern Trade,Retail
+CUST-052,Toko Sejahtera 52,Sumedang,Distributor,Online
+CUST-053,Toko Sejahtera 53,Bogor Kab.,Traditional Trade,Retail
+CUST-054,Toko Sejahtera 54,Tasikmalaya,E-commerce,Online
+CUST-055,Toko Sejahtera 55,Subang,Modern Trade,Retail
+CUST-056,Toko Sejahtera 56,Sumedang,Traditional Trade,Retail
+CUST-057,Toko Sejahtera 57,Tasikmalaya Kab.,Modern Trade,Wholesaler
+CUST-058,Toko Sejahtera 58,Sukabumi,E-commerce,Wholesaler
+CUST-059,Toko Sejahtera 59,Tasikmalaya Kab.,E-commerce,Online
+CUST-060,Toko Sejahtera 60,Pangandaran,Traditional Trade,Wholesaler
+CUST-061,Toko Sejahtera 61,Bandung Barat,Distributor,Online
+CUST-062,Toko Sejahtera 62,Ciamis,E-commerce,Retail
+CUST-063,Toko Sejahtera 63,Purwakarta,Traditional Trade,Retail
+CUST-064,Toko Sejahtera 64,Depok,Traditional Trade,Wholesaler
+CUST-065,Toko Sejahtera 65,Cirebon Kab.,Modern Trade,Online
+CUST-066,Toko Sejahtera 66,Cimahi,Modern Trade,Corporate
+CUST-067,Toko Sejahtera 67,Purwakarta,E-commerce,Retail
+CUST-068,Toko Sejahtera 68,Bogor,E-commerce,Retail
+CUST-069,Toko Sejahtera 69,Subang,Distributor,Wholesaler
+CUST-070,Toko Sejahtera 70,Majalengka,Traditional Trade,Retail
+CUST-071,Toko Sejahtera 71,Bogor Kab.,Traditional Trade,Online
+CUST-072,Toko Sejahtera 72,Sumedang,Distributor,Online
+CUST-073,Toko Sejahtera 73,Cimahi,E-commerce,Retail
+CUST-074,Toko Sejahtera 74,Bogor Kab.,E-commerce,Wholesaler
+CUST-075,Toko Sejahtera 75,Bandung Barat,Distributor,Wholesaler
+CUST-076,Toko Sejahtera 76,Bekasi Kab.,Distributor,Retail
+CUST-077,Toko Sejahtera 77,Banjar,Modern Trade,Online
+CUST-078,Toko Sejahtera 78,Sukabumi Kab.,Modern Trade,Retail
+CUST-079,Toko Sejahtera 79,Bogor Kab.,E-commerce,Online
+CUST-080,Toko Sejahtera 80,Banjar,Distributor,Retail
+CUST-081,Toko Sejahtera 81,Sumedang,Modern Trade,Online
+CUST-082,Toko Sejahtera 82,Tasikmalaya Kab.,Modern Trade,Retail
+CUST-083,Toko Sejahtera 83,Cirebon Kab.,Distributor,Retail
+CUST-084,Toko Sejahtera 84,Bandung Barat,Modern Trade,Online
+CUST-085,Toko Sejahtera 85,Sukabumi Kab.,Modern Trade,Retail
+CUST-086,Toko Sejahtera 86,Bogor Kab.,Traditional Trade,Retail
+CUST-087,Toko Sejahtera 87,Subang,Distributor,Corporate
+CUST-088,Toko Sejahtera 88,Indramayu,Distributor,Corporate
+CUST-089,Toko Sejahtera 89,Purwakarta,Modern Trade,Retail
+CUST-090,Toko Sejahtera 90,Cimahi,Distributor,Wholesaler
+CUST-091,Toko Sejahtera 91,Subang,Modern Trade,Retail
+CUST-092,Toko Sejahtera 92,Kuningan,Traditional Trade,Retail
+CUST-093,Toko Sejahtera 93,Tasikmalaya,Distributor,Retail
+CUST-094,Toko Sejahtera 94,Cimahi,Distributor,Wholesaler
+CUST-095,Toko Sejahtera 95,Pangandaran,E-commerce,Wholesaler
+CUST-096,Toko Sejahtera 96,Indramayu,Distributor,Wholesaler
+CUST-097,Toko Sejahtera 97,Karawang,Traditional Trade,Wholesaler
+CUST-098,Toko Sejahtera 98,Sumedang,Modern Trade,Retail
+CUST-099,Toko Sejahtera 99,Purwakarta,Traditional Trade,Retail
+CUST-100,Toko Sejahtera 100,Pangandaran,Traditional Trade,Retail
+CUST-101,Toko Sejahtera 101,Cianjur,Modern Trade,Retail
+CUST-102,Toko Sejahtera 102,Tasikmalaya Kab.,E-commerce,Retail
+CUST-103,Toko Sejahtera 103,Tasikmalaya,Traditional Trade,Online
+CUST-104,Toko Sejahtera 104,Karawang,E-commerce,Retail
+CUST-105,Toko Sejahtera 105,Sukabumi,Distributor,Retail
+CUST-106,Toko Sejahtera 106,Purwakarta,Distributor,Retail
+CUST-107,Toko Sejahtera 107,Karawang,Traditional Trade,Wholesaler
+CUST-108,Toko Sejahtera 108,Bandung,Traditional Trade,Wholesaler
+CUST-109,Toko Sejahtera 109,Tasikmalaya,Traditional Trade,Retail
+CUST-110,Toko Sejahtera 110,Depok,Modern Trade,Retail
+CUST-111,Toko Sejahtera 111,Sukabumi,Distributor,Wholesaler
+CUST-112,Toko Sejahtera 112,Cianjur,Traditional Trade,Retail
+CUST-113,Toko Sejahtera 113,Bandung,Modern Trade,Online
+CUST-114,Toko Sejahtera 114,Cirebon Kab.,Distributor,Wholesaler
+CUST-115,Toko Sejahtera 115,Cimahi,Modern Trade,Retail
+CUST-116,Toko Sejahtera 116,Cianjur,E-commerce,Retail
+CUST-117,Toko Sejahtera 117,Cirebon,E-commerce,Corporate
+CUST-118,Toko Sejahtera 118,Garut,E-commerce,Retail
+CUST-119,Toko Sejahtera 119,Majalengka,Traditional Trade,Retail
+CUST-120,Toko Sejahtera 120,Cimahi,Modern Trade,Online
+CUST-121,Toko Sejahtera 121,Bogor,E-commerce,Online
+CUST-122,Toko Sejahtera 122,Bogor,Traditional Trade,Corporate
+CUST-123,Toko Sejahtera 123,Bandung,E-commerce,Wholesaler
+CUST-124,Toko Sejahtera 124,Garut Kab.,E-commerce,Retail
+CUST-125,Toko Sejahtera 125,Bekasi,E-commerce,Retail
+CUST-126,Toko Sejahtera 126,Sukabumi Kab.,Traditional Trade,Wholesaler
+CUST-127,Toko Sejahtera 127,Depok,Traditional Trade,Retail
+CUST-128,Toko Sejahtera 128,Tasikmalaya Kab.,E-commerce,Retail
+CUST-129,Toko Sejahtera 129,Sukabumi,Traditional Trade,Online
+CUST-130,Toko Sejahtera 130,Depok,Modern Trade,Retail
+CUST-131,Toko Sejahtera 131,Sukabumi,Traditional Trade,Retail
+CUST-132,Toko Sejahtera 132,Cimahi,E-commerce,Retail
+CUST-133,Toko Sejahtera 133,Cirebon Kab.,Distributor,Retail
+CUST-134,Toko Sejahtera 134,Bandung Barat,Traditional Trade,Retail
+CUST-135,Toko Sejahtera 135,Bandung,Modern Trade,Retail
+CUST-136,Toko Sejahtera 136,Indramayu,Distributor,Retail
+CUST-137,Toko Sejahtera 137,Kuningan,E-commerce,Wholesaler
+CUST-138,Toko Sejahtera 138,Kuningan,Modern Trade,Wholesaler
+CUST-139,Toko Sejahtera 139,Cianjur,Traditional Trade,Retail
+CUST-140,Toko Sejahtera 140,Bekasi,E-commerce,Corporate
+CUST-141,Toko Sejahtera 141,Bogor,Distributor,Retail
+CUST-142,Toko Sejahtera 142,Cirebon Kab.,Distributor,Retail
+CUST-143,Toko Sejahtera 143,Cimahi,Distributor,Online
+CUST-144,Toko Sejahtera 144,Banjar,Traditional Trade,Retail
+CUST-145,Toko Sejahtera 145,Garut Kab.,Traditional Trade,Corporate
+CUST-146,Toko Sejahtera 146,Bogor,E-commerce,Retail
+CUST-147,Toko Sejahtera 147,Bandung,E-commerce,Corporate
+CUST-148,Toko Sejahtera 148,Bogor,E-commerce,Retail
+CUST-149,Toko Sejahtera 149,Bekasi,E-commerce,Online
+CUST-150,Toko Sejahtera 150,Purwakarta,Traditional Trade,Retail
+CUST-151,Toko Sejahtera 151,Subang,Traditional Trade,Corporate
+CUST-152,Toko Sejahtera 152,Bogor,Distributor,Retail
+CUST-153,Toko Sejahtera 153,Bandung,Distributor,Retail
+CUST-154,Toko Sejahtera 154,Bekasi,Distributor,Corporate
+CUST-155,Toko Sejahtera 155,Tasikmalaya Kab.,Distributor,Retail
+CUST-156,Toko Sejahtera 156,Kuningan,E-commerce,Wholesaler
+CUST-157,Toko Sejahtera 157,Subang,Traditional Trade,Wholesaler
+CUST-158,Toko Sejahtera 158,Depok,Traditional Trade,Retail
+CUST-159,Toko Sejahtera 159,Garut Kab.,Modern Trade,Wholesaler
+CUST-160,Toko Sejahtera 160,Sukabumi,Traditional Trade,Retail
+CUST-161,Toko Sejahtera 161,Purwakarta,Modern Trade,Online
+CUST-162,Toko Sejahtera 162,Purwakarta,Traditional Trade,Retail
+CUST-163,Toko Sejahtera 163,Tasikmalaya Kab.,Traditional Trade,Retail
+CUST-164,Toko Sejahtera 164,Sukabumi Kab.,Traditional Trade,Corporate
+CUST-165,Toko Sejahtera 165,Karawang,Traditional Trade,Online
+CUST-166,Toko Sejahtera 166,Garut,Modern Trade,Retail
+CUST-167,Toko Sejahtera 167,Depok,Modern Trade,Wholesaler
+CUST-168,Toko Sejahtera 168,Majalengka,E-commerce,Retail
+CUST-169,Toko Sejahtera 169,Ciamis,Traditional Trade,Retail
+CUST-170,Toko Sejahtera 170,Bogor Kab.,Modern Trade,Retail
+CUST-171,Toko Sejahtera 171,Bekasi,Traditional Trade,Retail
+CUST-172,Toko Sejahtera 172,Kuningan,Distributor,Retail
+CUST-173,Toko Sejahtera 173,Depok,Modern Trade,Retail
+CUST-174,Toko Sejahtera 174,Karawang,Distributor,Corporate
+CUST-175,Toko Sejahtera 175,Purwakarta,Modern Trade,Corporate
+CUST-176,Toko Sejahtera 176,Cirebon,Modern Trade,Wholesaler
+CUST-177,Toko Sejahtera 177,Bogor Kab.,Traditional Trade,Retail
+CUST-178,Toko Sejahtera 178,Karawang,Traditional Trade,Retail
+CUST-179,Toko Sejahtera 179,Depok,Distributor,Online
+CUST-180,Toko Sejahtera 180,Garut Kab.,Distributor,Wholesaler
+CUST-181,Toko Sejahtera 181,Garut,E-commerce,Retail
+CUST-182,Toko Sejahtera 182,Banjar,Traditional Trade,Online
+CUST-183,Toko Sejahtera 183,Bandung Barat,Traditional Trade,Online
+CUST-184,Toko Sejahtera 184,Sukabumi Kab.,Distributor,Online
+CUST-185,Toko Sejahtera 185,Karawang,Traditional Trade,Wholesaler
+CUST-186,Toko Sejahtera 186,Tasikmalaya,Traditional Trade,Wholesaler
+CUST-187,Toko Sejahtera 187,Pangandaran,Modern Trade,Retail
+CUST-188,Toko Sejahtera 188,Bekasi Kab.,Modern Trade,Online
+CUST-189,Toko Sejahtera 189,Cirebon Kab.,E-commerce,Online
+CUST-190,Toko Sejahtera 190,Cirebon Kab.,E-commerce,Retail
+CUST-191,Toko Sejahtera 191,Ciamis,Distributor,Retail
+CUST-192,Toko Sejahtera 192,Cirebon,Traditional Trade,Retail
+CUST-193,Toko Sejahtera 193,Tasikmalaya Kab.,Modern Trade,Online
+CUST-194,Toko Sejahtera 194,Kuningan,Modern Trade,Corporate
+CUST-195,Toko Sejahtera 195,Tasikmalaya,Traditional Trade,Retail
+CUST-196,Toko Sejahtera 196,Depok,Traditional Trade,Retail
+CUST-197,Toko Sejahtera 197,Bandung,Distributor,Retail
+CUST-198,Toko Sejahtera 198,Bandung,Distributor,Corporate
+CUST-199,Toko Sejahtera 199,Tasikmalaya,Traditional Trade,Online
+CUST-200,Toko Sejahtera 200,Garut Kab.,E-commerce,Online

@@ -1,0 +1,201 @@
+CampaignID,Month,Channel,City,ProductCategory,SpendAmount
+MK-001,Mar,Sponsorship,Karawang,Beverage,632742156
+MK-002,Dec,Sponsorship,Bekasi Kab.,Beverage,171236163
+MK-003,Feb,Sponsorship,Sukabumi Kab.,Confectionery,182858128
+MK-004,Oct,Digital Ads,Kuningan,Confectionery,141209841
+MK-005,Aug,Sponsorship,Sukabumi,Dairy,443050067
+MK-006,Nov,In-store Promo,Bekasi Kab.,Culinary,51072852
+MK-007,Jul,Digital Ads,Bandung,Confectionery,411817352
+MK-008,Oct,TV,Cianjur,Confectionery,18567275
+MK-009,Apr,Sponsorship,Sumedang,Culinary,369169868
+MK-010,Feb,In-store Promo,Tasikmalaya,Beverage,455646927
+MK-011,Dec,Sponsorship,Garut Kab.,Beverage,309500097
+MK-012,Sep,TV,Kuningan,Confectionery,154028346
+MK-013,Aug,Digital Ads,Depok,Confectionery,275278952
+MK-014,Apr,TV,Tasikmalaya Kab.,Culinary,538038168
+MK-015,Nov,Digital Ads,Sukabumi Kab.,Culinary,490081500
+MK-016,May,In-store Promo,Cirebon Kab.,Confectionery,311743107
+MK-017,Oct,In-store Promo,Pangandaran,Culinary,294321335
+MK-018,Jun,In-store Promo,Cianjur,Beverage,341508042
+MK-019,Apr,TV,Tasikmalaya Kab.,Dairy,656977766
+MK-020,Feb,Sponsorship,Purwakarta,Confectionery,195163128
+MK-021,May,Sponsorship,Majalengka,Dairy,226627178
+MK-022,Nov,TV,Bogor,Culinary,377692949
+MK-023,Jan,Sponsorship,Tasikmalaya,Dairy,166033774
+MK-024,Jul,TV,Purwakarta,Confectionery,134899320
+MK-025,Sep,Sponsorship,Bandung,Culinary,80890863
+MK-026,Mar,Digital Ads,Cirebon,Dairy,71450265
+MK-027,Jun,In-store Promo,Cianjur,Beverage,420897290
+MK-028,Sep,Sponsorship,Bekasi Kab.,Confectionery,207120940
+MK-029,Nov,TV,Indramayu,Confectionery,184844480
+MK-030,Apr,Digital Ads,Tasikmalaya Kab.,Confectionery,229539836
+MK-031,Jun,Sponsorship,Pangandaran,Confectionery,89680185
+MK-032,Mar,Sponsorship,Cirebon Kab.,Culinary,593217392
+MK-033,Sep,TV,Banjar,Beverage,112039176
+MK-034,Jul,Digital Ads,Garut Kab.,Beverage,284189277
+MK-035,Jul,In-store Promo,Pangandaran,Dairy,276913583
+MK-036,Apr,TV,Purwakarta,Confectionery,448760377
+MK-037,Jun,Sponsorship,Tasikmalaya,Confectionery,134271341
+MK-038,Nov,In-store Promo,Sumedang,Dairy,53530573
+MK-039,Nov,Sponsorship,Sukabumi Kab.,Culinary,665937393
+MK-040,Aug,TV,Banjar,Beverage,455562069
+MK-041,Jun,Digital Ads,Cirebon Kab.,Confectionery,116825530
+MK-042,Jun,In-store Promo,Ciamis,Dairy,87409484
+MK-043,Apr,TV,Garut,Beverage,74114036
+MK-044,Aug,TV,Bekasi,Dairy,248871944
+MK-045,Oct,In-store Promo,Sumedang,Dairy,104767084
+MK-046,Aug,Digital Ads,Garut,Culinary,244691017
+MK-047,Sep,Sponsorship,Kuningan,Beverage,198769072
+MK-048,Jun,In-store Promo,Cirebon Kab.,Confectionery,223192536
+MK-049,Feb,TV,Bandung,Beverage,331996468
+MK-050,Apr,In-store Promo,Bandung Barat,Culinary,670729686
+MK-051,Apr,In-store Promo,Bogor,Confectionery,150611268
+MK-052,Aug,Digital Ads,Tasikmalaya Kab.,Beverage,402815545
+MK-053,May,Digital Ads,Cirebon Kab.,Culinary,74558638
+MK-054,Apr,Sponsorship,Subang,Confectionery,144180718
+MK-055,Aug,In-store Promo,Depok,Confectionery,88306309
+MK-056,Mar,Digital Ads,Bogor Kab.,Dairy,60463780
+MK-057,Feb,Digital Ads,Cirebon Kab.,Dairy,68645782
+MK-058,Apr,TV,Cianjur,Culinary,534905427
+MK-059,Nov,Digital Ads,Cimahi,Confectionery,599825935
+MK-060,Jan,In-store Promo,Bandung,Beverage,32720609
+MK-061,Jan,In-store Promo,Bekasi,Confectionery,71006117
+MK-062,May,TV,Bandung,Culinary,57783140
+MK-063,Nov,TV,Purwakarta,Beverage,76317798
+MK-064,Jan,TV,Karawang,Confectionery,235224238
+MK-065,Apr,In-store Promo,Kuningan,Beverage,241776876
+MK-066,Aug,In-store Promo,Karawang,Dairy,100941555
+MK-067,Aug,Sponsorship,Bogor Kab.,Beverage,379178313
+MK-068,Feb,Digital Ads,Purwakarta,Dairy,163576010
+MK-069,Mar,TV,Cirebon Kab.,Beverage,79502988
+MK-070,Mar,Digital Ads,Cimahi,Dairy,247680401
+MK-071,Jan,Digital Ads,Indramayu,Culinary,58349884
+MK-072,Nov,Sponsorship,Cirebon Kab.,Beverage,177498452
+MK-073,Mar,In-store Promo,Cianjur,Confectionery,610855267
+MK-074,Aug,Digital Ads,Tasikmalaya,Culinary,227040218
+MK-075,Jun,TV,Garut Kab.,Culinary,430950952
+MK-076,May,TV,Bekasi Kab.,Beverage,127487580
+MK-077,Oct,In-store Promo,Kuningan,Culinary,140366693
+MK-078,Dec,In-store Promo,Purwakarta,Dairy,524703642
+MK-079,Sep,In-store Promo,Depok,Dairy,173952172
+MK-080,Jul,TV,Bekasi,Beverage,338112277
+MK-081,Jun,In-store Promo,Kuningan,Culinary,32748288
+MK-082,May,Sponsorship,Purwakarta,Confectionery,274760467
+MK-083,May,Sponsorship,Tasikmalaya,Beverage,87877253
+MK-084,Oct,TV,Cirebon Kab.,Beverage,121116853
+MK-085,Sep,Sponsorship,Cirebon,Culinary,129582696
+MK-086,Oct,Digital Ads,Bogor Kab.,Dairy,104622525
+MK-087,Jun,In-store Promo,Karawang,Culinary,422687493
+MK-088,Dec,Sponsorship,Sumedang,Confectionery,70832982
+MK-089,Nov,In-store Promo,Cimahi,Confectionery,460395251
+MK-090,Apr,Sponsorship,Depok,Confectionery,659231838
+MK-091,Apr,In-store Promo,Banjar,Confectionery,474752870
+MK-092,Dec,TV,Kuningan,Beverage,342190800
+MK-093,Apr,Digital Ads,Indramayu,Confectionery,626798611
+MK-094,Nov,In-store Promo,Bogor,Confectionery,497642898
+MK-095,Jun,Digital Ads,Banjar,Confectionery,439377804
+MK-096,Jan,In-store Promo,Tasikmalaya Kab.,Culinary,333462130
+MK-097,Sep,TV,Indramayu,Dairy,159414741
+MK-098,Feb,Digital Ads,Indramayu,Dairy,387205610
+MK-099,Feb,Sponsorship,Depok,Dairy,253081977
+MK-100,May,Digital Ads,Kuningan,Confectionery,151968526
+MK-101,Dec,In-store Promo,Karawang,Culinary,419684448
+MK-102,Dec,Digital Ads,Karawang,Beverage,400423878
+MK-103,Nov,TV,Pangandaran,Culinary,527189416
+MK-104,Apr,Digital Ads,Garut,Beverage,696107603
+MK-105,Mar,Digital Ads,Sumedang,Culinary,404685953
+MK-106,May,Digital Ads,Depok,Dairy,209181355
+MK-107,Jul,Sponsorship,Ciamis,Dairy,338439258
+MK-108,Oct,Digital Ads,Sumedang,Confectionery,159156781
+MK-109,Feb,In-store Promo,Cianjur,Dairy,219954873
+MK-110,Jun,In-store Promo,Sumedang,Dairy,448037026
+MK-111,Apr,Digital Ads,Banjar,Dairy,507933713
+MK-112,Feb,Digital Ads,Bogor Kab.,Culinary,116581228
+MK-113,Jan,Sponsorship,Sukabumi,Dairy,316850957
+MK-114,Aug,TV,Pangandaran,Beverage,180567461
+MK-115,May,In-store Promo,Indramayu,Confectionery,120363005
+MK-116,Oct,Sponsorship,Bogor Kab.,Culinary,202586789
+MK-117,Feb,In-store Promo,Cimahi,Beverage,71340732
+MK-118,Aug,In-store Promo,Bogor,Culinary,38387386
+MK-119,Mar,Digital Ads,Sukabumi,Dairy,245602012
+MK-120,Jul,In-store Promo,Cimahi,Culinary,386342294
+MK-121,Feb,TV,Cirebon Kab.,Culinary,423572046
+MK-122,Jul,TV,Subang,Confectionery,303309949
+MK-123,Apr,TV,Cianjur,Culinary,363405275
+MK-124,Oct,Sponsorship,Sukabumi Kab.,Culinary,171819384
+MK-125,Jan,TV,Pangandaran,Confectionery,202840130
+MK-126,May,TV,Majalengka,Culinary,143641978
+MK-127,Dec,In-store Promo,Cirebon,Culinary,105887247
+MK-128,Dec,Sponsorship,Sukabumi Kab.,Beverage,672216598
+MK-129,Apr,Digital Ads,Karawang,Beverage,793412257
+MK-130,Aug,Sponsorship,Tasikmalaya,Culinary,20439709
+MK-131,Jan,Sponsorship,Bandung Barat,Culinary,375746984
+MK-132,Feb,Digital Ads,Bandung,Dairy,235517952
+MK-133,May,Digital Ads,Banjar,Beverage,175324527
+MK-134,Oct,Digital Ads,Bandung,Dairy,149839126
+MK-135,Oct,In-store Promo,Indramayu,Culinary,200679082
+MK-136,Dec,In-store Promo,Sukabumi Kab.,Dairy,325509108
+MK-137,Feb,In-store Promo,Tasikmalaya Kab.,Dairy,144998753
+MK-138,Nov,TV,Sukabumi Kab.,Confectionery,556091013
+MK-139,Jan,Digital Ads,Depok,Confectionery,103837970
+MK-140,Jun,In-store Promo,Depok,Culinary,41435477
+MK-141,Dec,In-store Promo,Bandung,Beverage,468694225
+MK-142,Dec,Sponsorship,Tasikmalaya Kab.,Culinary,605978391
+MK-143,Oct,In-store Promo,Karawang,Beverage,241445589
+MK-144,Apr,Digital Ads,Bekasi,Confectionery,664013316
+MK-145,May,Digital Ads,Bogor,Beverage,58341164
+MK-146,Mar,TV,Karawang,Dairy,447674763
+MK-147,Oct,TV,Garut Kab.,Dairy,24739631
+MK-148,Jun,Sponsorship,Cirebon Kab.,Confectionery,364670750
+MK-149,Apr,TV,Sumedang,Culinary,64816241
+MK-150,Jun,Digital Ads,Garut Kab.,Beverage,109541170
+MK-151,May,TV,Bekasi,Culinary,64652406
+MK-152,Nov,TV,Bekasi,Beverage,299932367
+MK-153,Feb,In-store Promo,Bandung Barat,Confectionery,256606145
+MK-154,Apr,Digital Ads,Bekasi Kab.,Dairy,708286652
+MK-155,Feb,Sponsorship,Depok,Dairy,29239929
+MK-156,May,TV,Bandung,Beverage,247888153
+MK-157,Mar,TV,Bogor,Culinary,535205372
+MK-158,Jun,Sponsorship,Ciamis,Confectionery,90710465
+MK-159,Nov,Sponsorship,Bandung Barat,Confectionery,631605307
+MK-160,May,Digital Ads,Sukabumi Kab.,Culinary,150714428
+MK-161,Feb,Sponsorship,Cirebon,Dairy,489211626
+MK-162,Oct,TV,Pangandaran,Culinary,277165452
+MK-163,Nov,Digital Ads,Karawang,Dairy,484990484
+MK-164,Aug,Digital Ads,Indramayu,Beverage,298175363
+MK-165,Jun,Sponsorship,Ciamis,Confectionery,131930821
+MK-166,Sep,Digital Ads,Cirebon,Beverage,268727297
+MK-167,Mar,TV,Sumedang,Culinary,791523748
+MK-168,Nov,TV,Cirebon,Culinary,120251629
+MK-169,Apr,TV,Bandung,Beverage,240999008
+MK-170,Nov,Digital Ads,Cianjur,Culinary,147873867
+MK-171,Aug,Sponsorship,Sumedang,Culinary,449400884
+MK-172,Jul,TV,Ciamis,Culinary,93975658
+MK-173,Aug,In-store Promo,Tasikmalaya Kab.,Confectionery,69405119
+MK-174,Sep,Sponsorship,Bekasi,Confectionery,89372367
+MK-175,Aug,Digital Ads,Bandung Barat,Dairy,250904242
+MK-176,Aug,TV,Tasikmalaya Kab.,Confectionery,372263928
+MK-177,Jun,Digital Ads,Tasikmalaya,Beverage,197984767
+MK-178,Nov,TV,Sumedang,Beverage,469336261
+MK-179,Feb,Digital Ads,Banjar,Confectionery,294190307
+MK-180,Dec,In-store Promo,Depok,Beverage,267806685
+MK-181,Jul,Digital Ads,Banjar,Culinary,120949364
+MK-182,Apr,Digital Ads,Cirebon,Confectionery,753869422
+MK-183,Mar,Digital Ads,Cirebon,Dairy,471089454
+MK-184,Apr,TV,Karawang,Dairy,54392268
+MK-185,Apr,Sponsorship,Bogor Kab.,Confectionery,620643124
+MK-186,Mar,Digital Ads,Bandung,Beverage,151787379
+MK-187,Sep,Sponsorship,Sumedang,Confectionery,188427119
+MK-188,Mar,TV,Cirebon Kab.,Confectionery,762910472
+MK-189,Feb,Digital Ads,Tasikmalaya Kab.,Dairy,255548022
+MK-190,Jan,TV,Sukabumi Kab.,Culinary,379614010
+MK-191,Nov,Sponsorship,Banjar,Culinary,394527089
+MK-192,Jan,TV,Cimahi,Confectionery,423633268
+MK-193,May,TV,Bogor,Dairy,190717727
+MK-194,Dec,Sponsorship,Depok,Dairy,79386763
+MK-195,Dec,TV,Tasikmalaya,Confectionery,687602313
+MK-196,May,Sponsorship,Ciamis,Confectionery,101954470
+MK-197,Dec,Sponsorship,Cirebon,Confectionery,416573857
+MK-198,Sep,Digital Ads,Depok,Culinary,190391896
+MK-199,Apr,Digital Ads,Depok,Confectionery,74155408
+MK-200,May,TV,Tasikmalaya Kab.,Dairy,322849451
